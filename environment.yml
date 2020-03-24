@@ -1,0 +1,18 @@
+name: base
+channels:
+  - plotly
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - pyproj
+  - IPython
+  - matplotlib
+  - seaborn
+  - xgboost
+  - scikit-learn
+  - folium
+  - sciPy
+  - ipyleaflet
+
