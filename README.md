@@ -1,4 +1,4 @@
-# Barcelonas Transit Accidents
+# Barcelona's Transit Accidents
 This is a Data Science project based on Barcelona's Transit Accidents available data.
 
 -To see a full offline preview of the jupyter notebooks in html you can download the folder name Preview.
